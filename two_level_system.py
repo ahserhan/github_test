@@ -5,3 +5,8 @@ def hamiltonian(rabi_f):
     """ this returns the hamiltonian ...."""
 
     return 'rabi_f / 2 * (a+ exp(i phi) + a- exp(-i phi))'
+
+
+def new_function(x):
+
+    return 25*x
